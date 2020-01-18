@@ -1,0 +1,12 @@
+{
+    "name": "archey347/php-apcupsd",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Archey Barrell",
+            "email": "archey.barrell@outlook.com"
+        }
+    ],
+    "require": {}
+}
